@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FaceEmoDetect", "FaceEmoDetect.pyproj", "{65AC33E8-A9DC-469E-A0FF-236E2F3F790A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AC33E8-A9DC-469E-A0FF-236E2F3F790A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AC33E8-A9DC-469E-A0FF-236E2F3F790A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843F6851-C241-40DB-86DE-F5E5D7C027DD}
+	EndGlobalSection
+EndGlobal
